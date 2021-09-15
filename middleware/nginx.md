@@ -1,4 +1,4 @@
-# Nginx 概述
+# Nginx
 
 ## 使用场景
 
@@ -102,9 +102,9 @@ proxy_cache_valid
 
 ## 进程模型
 
-![image-20210915094951601](Nginx概述.assets/image-20210915094951601.png)
+![image-20210915094951601](nginx.assets/image-20210915094951601.png)
 
-![image-20210915095006166](Nginx概述.assets/image-20210915095006166.png)
+![image-20210915095006166](nginx.assets/image-20210915095006166.png)
 
 ## 反向代理
 
