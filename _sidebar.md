@@ -8,7 +8,7 @@
   * MySQL
 * 中间件
   * [Nginx](./middleware/nginx.md)
-  * Redis
+  * [Redis](./middleware/Redis.md)
   * MongoDB
   * Zookeeper
   * ActiveMQ
